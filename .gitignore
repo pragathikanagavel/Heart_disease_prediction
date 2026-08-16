@@ -1,0 +1,16 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+.mypy_cache/
+.pytest_cache/
+.env
+.idea/
+.vscode/
+*.log
+
+# Keep the dataset in the project for academic use
+# data/
